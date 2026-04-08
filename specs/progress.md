@@ -93,6 +93,12 @@ Ce document sert à suivre l'état d'avancement du développement, les tâches a
 - [x] Support des groupes et répétitions dans l'export
 - [ ] Export XML natif (ODK)
 
+## 🟢 Phase 18 : Import et Migration
+- [x] Parser de fichiers XLSForm Excel (.xlsx)
+- [x] Conversion récursive des 3 feuilles (survey, choices, settings)
+- [x] Interface d'importation dans le Dashboard
+- [ ] Rapport d'import avec warnings (à venir)
+
 ---
 
 ## Notes Techniques & Décisions
